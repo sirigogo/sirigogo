@@ -2,8 +2,6 @@
 
 #### ✨ Junior Frontend Developer
 
-<hr>
-<br>
 
 🛠️ Stacks
 
