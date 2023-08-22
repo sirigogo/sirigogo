@@ -1,7 +1,5 @@
 ### 👋 Hi Welcome, I'm GeunSil
 
-#### ✨ Junior Frontend Developer
-
 
 안녕하세요. 웹프론트엔드 개발자 장근실입니다. <br>
 UI 디자인에 큰 관심을 가지고 있으며, 사용자 경험을 향상시키기 위해 노력합니다.<br>
